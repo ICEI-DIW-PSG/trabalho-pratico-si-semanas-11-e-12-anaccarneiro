@@ -6,10 +6,10 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Ana Clara Castro Carneiro
+- Matricula: 898743
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: Site que apresenta algumas das cidades históricas de Minas Gerais que já visitei.
 
 **Print dos testes da API com Postman ou similar**
 
