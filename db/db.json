@@ -20,6 +20,27 @@
       "foto": "./serro.avif",
       "resumo": "Serro é uma cidade histórica de Minas Gerais...",
       "sobre": "Serro é uma das cidades mais tradicionais e charmosas de Minas Gerais..."
+    },
+    {
+      "id": "e3dd",
+      "nome": "Campinas",
+      "foto": "campinas.jpg",
+      "resumo": "Cidade de São Paulo",
+      "sobre": "Cidade\n"
+    },
+    {
+      "id": "f633",
+      "nome": "Guarulhos",
+      "foto": "guarulhos.jpg",
+      "resumo": "Cidade de SP",
+      "sobre": "Guarulhos\n"
+    },
+    {
+      "id": "08fb",
+      "nome": "Bela Vista",
+      "foto": "bela-vista.jpg",
+      "resumo": "Cidade de MG",
+      "sobre": "Bela Vista, cidade histórica\n"
     }
   ]
 }
